@@ -70,8 +70,8 @@ Bu dijital arşiv projesi, bir ekip çalışması olarak hazırlanmıştır:
 
 | Geliştirici | Rol | Bağlantı |
 | :--- | :--- | :--- |
-| **Caner Mercan** | Frontend & UI Tasarım | [GitHub](https://github.com/caner-mercan) |
-| **Hamza Uludağ** | JavaScript & Veri Yönetimi | [GitHub](https://github.com/hamza-uludag) |
+| **Caner Mercan** | Frontend & UI Tasarım | https://github.com/caner-mercan |
+| **Hamza Uludağ** | JavaScript & Veri Yönetimi |https://github.com/uludaghamza98-web |
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
